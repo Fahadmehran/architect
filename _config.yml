@@ -1,5 +1,16 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Fahad Baig </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="www.linkedin.com/in/fahad-baig-496a96178/">LinkedIn</a> |
+  <a href="https://github.com/Fahadmehran">GitHub</a>
+  
+  <br>   
+  I'm working as Validator for different softwares.
+  Also upskilling myself by learning Data Science, Big Data, Data Anaytics, Machine learning and Artificial Intelligence.
+  <br>
+  </p>
+  
+  
 theme: jekyll-theme-architect
